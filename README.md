@@ -10,3 +10,5 @@ case EMAIL :
 
 case FTP or SFTP :
 - host, port, user and password fields cannot be null or empty and any other non annotated fields are optional.
+
+Take a look at the test folder as well to have a working proof of the concept.
