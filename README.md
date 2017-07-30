@@ -1,6 +1,9 @@
 # ConditionalValidator
 Showcase Spring Boot project for custom conditional validation.
 
+## A tutorial linked to this repository:
+https://medium.com/@crb3/spring-boot-conditional-validation-example-2dd23af22539
+
 The main purpose of this repository is provide a solution for a conditional validation example in spring boot.
 The object to validate is the ExportLocationDTO POJO class , depending on it's field locationOption's value 
 different additional fields are validated.
